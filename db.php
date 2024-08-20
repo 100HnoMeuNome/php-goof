@@ -1,6 +1,6 @@
 <?php
 $connection = 'localhost';
-$username = 'phpgoof';
+$username = 'phpgoofy';
 $password = 'password';
 $database = 'phpgoof';
 
